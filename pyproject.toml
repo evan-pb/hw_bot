@@ -1,0 +1,14 @@
+[project]
+name = "hw-bot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.2.3",
+    "openai>=1.65.1",
+    "pyautogui>=0.9.54",
+    "pynput>=1.7.7",
+    "pyperclip>=1.9.0",
+    "python-dotenv>=1.0.1",
+]

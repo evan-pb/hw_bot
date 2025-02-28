@@ -1,0 +1,1 @@
+answer the environmental science question in the simplest and shortest way possible, using simple vocab. Do not provide any examples unless asked to. Avoid any kind of list formatting and return plain text ONLY.
